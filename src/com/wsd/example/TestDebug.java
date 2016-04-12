@@ -7,6 +7,7 @@ public class TestDebug {
 		System.out.println("haha");
 		System.out.println("heihei");
 		System.out.println("add print message");
+		System.out.println("change again");
 	}
 
 }
