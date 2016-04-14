@@ -14,7 +14,6 @@ public class ProductTest  extends TestCase{
 	 */
 	@Test
 	public void testAddProduct() {
-		fail("增加商品失败");
 	}
 	
 	

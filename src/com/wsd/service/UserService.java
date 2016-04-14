@@ -19,7 +19,7 @@ public class UserService {
 		if(null!=user && !"".equals(user.getUsername())&&!"".equals(user.getPassword())){
 			//do login user database
 			result=true;
-		}
+		}   
 		return result;
 	}
 	

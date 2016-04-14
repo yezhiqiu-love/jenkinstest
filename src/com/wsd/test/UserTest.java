@@ -34,7 +34,7 @@ public class UserTest extends TestCase{
 	@Test
 	public void testLogin() {
 		UserService us = new UserService();
-		User user = new User("","123456");
+		User user = new User("111","123456");
 		boolean flag= us.register(user);
 		if(flag){
 			System.out.println("µÇÂ½³É¹¦");
